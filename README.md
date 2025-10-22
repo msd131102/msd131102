@@ -1,61 +1,118 @@
 <h1 align="center">Hi 👋, I'm Shiva</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India</h3>
+<h3 align="center">🚀 A Passionate Full Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=msd131102&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=msd131102" alt="Trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=msd131102&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/msd131102?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
 
-### 🌱 I’m currently learning
-**Angular | Node.js | Spring Boot | Flask | Django | React.js**
+### 👨‍💻 About Me
 
-### 👨‍💻 My Projects
-Check out my portfolio: [Shiva Portfolio](https://shivaportfolio1311.netlify.app/)
+💡 I'm a **Full Stack Developer (MERN & Java Spring Boot)** passionate about building dynamic and scalable web applications.  
+🎓 I focus on **frontend excellence, backend optimization, and cloud deployment**.  
+🚀 I love creating projects that combine **modern UI/UX design** with **powerful backend logic**.  
+📍 Based in India | Open to Full-Time & Internship Opportunities  
 
-### 📫 Contact Me
-Email: **shivmodernz@gmail.com**  
+---
 
-### 💬 Connect with Me
+### 🌱 Currently Learning
+
+**Angular • Node.js • Spring Boot • Flask • React.js**
+
+---
+
+### 🧩 Skills & Technologies
+
+#### 💻 Programming Languages
+  `Java` • `JavaScript` • `SQL`
+
+#### 🌐 Frontend Development
+`HTML5` • `CSS3` • `React.js` • `Redux Toolkit` • `Tailwind CSS`
+
+#### ⚙️ Backend Development
+`Node.js` • `Express.js` • `Spring Boot` • `Flask` • `Django`
+
+#### 🗄️ Database & Tools
+`MongoDB` • `MySQL` • `PostgreSQL` • `SQL Server`
+
+#### ☁️ Other Tools
+`Git & GitHub` • `Postman` • `Photoshop` • `Render` • `Netlify` • `Vercel`
+
+---
+
+### 💼 Featured Projects
+
+🔹 **[ANSHU BEAUTY HUB](https://anshu-beauty-hub-frontend.onrender.com/)**  
+Full-stack e-commerce web app for organic beauty products built with **React.js, Node.js, Express, MongoDB**, and payment integration.
+
+🔹 **[My Portfolio Website](https://mr-shiva.netlify.app/)**  
+A responsive and modern portfolio showcasing my full-stack projects and skills.
+
+🔹 **QuickPik (In Progress)**  
+A Spring Boot + React web app integrating JWT, AWS S3, and Google Login for a next-gen product platform.
+
+---
+
+### 📫 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/sivadora-madepalli-16a8a3228/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shivmodernz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/msd131102" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
+
+📧 **Email:** shivmodernz@gmail.com  
+🌐 **Portfolio:** [https://shivaportfolio1311.netlify.app/](https://mr-shiva.netlify.app/)
 
 ---
 
 ### 🛠 Languages & Tools
-<p align="left">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,spring,python,mysql,postman,git,github,tailwind,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msd131102&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=msd131102&show_icons=true&locale=en" alt="GitHub Stats" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msd131102&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msd131102&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msd131102" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=msd131102&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=msd131102&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 💬 Fun Fact
+
+💡 “Every great app starts with a single line of code — and a strong cup of coffee ☕.”
+
+---
+
+### 📈 Profile Summary (SEO Optimized)
+
+> **Full Stack Developer | MERN Stack | React.js | Node.js | Express | MongoDB | Java | Spring Boot | Python | REST API | Cloud Deployment | Fresher Developer | Open Source Enthusiast**
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
