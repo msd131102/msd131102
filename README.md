@@ -51,7 +51,7 @@ Full-stack e-commerce web app for organic beauty products built with **React.js,
 A responsive and modern portfolio showcasing my full-stack projects and skills.
 
 🔹 **[Genify](https://genify-px1i.onrender.com/)**  
-Genify is an innovative AI-powered application that transforms text descriptions into stunning images in seconds. Built with modern web technologies, it offers a seamless user experience for creative image generation.
+**Genify is an innovative AI-powered application that transforms text descriptions into stunning images in seconds**
 ---
 
 
