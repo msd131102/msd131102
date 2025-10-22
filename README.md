@@ -50,10 +50,10 @@ Full-stack e-commerce web app for organic beauty products built with **React.js,
 🔹 **[My Portfolio Website](https://mr-shiva.netlify.app/)**  
 A responsive and modern portfolio showcasing my full-stack projects and skills.
 
-🔹 **QuickPik (In Progress)**  
-A Spring Boot + React web app integrating JWT, AWS S3, and Google Login for a next-gen product platform.
-
+🔹 **[Genify](https://genify-px1i.onrender.com/)**  
+Genify is an innovative AI-powered application that transforms text descriptions into stunning images in seconds. Built with modern web technologies, it offers a seamless user experience for creative image generation.
 ---
+
 
 ### 📫 Connect with Me
 
