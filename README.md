@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-4F46E5?style=flat-square&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/-MERN%20%7C%20Spring%20Boot-3b82f6?style=flat-square&logo=mongodb&logoColor=white" />
     <img src="https://img.shields.io/badge/-India-orange?style=flat-square&logo=google-maps&logoColor=white" />
-    <img src="https://github.com/users/msd131102/achievements/yolo" />
   </p>
 
   ### 🚀 Architecting Scalable Digital Experiences
+ 
 </div>
 
 ---
