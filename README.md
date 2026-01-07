@@ -20,6 +20,13 @@ I’m a **Full Stack Engineer** specialized in bridging the gap between sophisti
 - 🎨 **Design Philosophy:** Clean code, minimal UI, and maximum performance.
 
 ---
+---
+
+### 📈 Profile Summary (SEO Optimized)
+
+> **Full Stack Developer | MERN Stack | React.js | Node.js | Express | MongoDB | Java | Spring Boot | Python | REST API | Cloud Deployment | Fresher Developer | Open Source Enthusiast**
+
+---
 
 ### 🛠️ Tech Stack Ecosystem
 
@@ -60,23 +67,6 @@ I’m a **Full Stack Engineer** specialized in bridging the gap between sophisti
 
 </div>
 
----
-
-### 📊 Engineering Metrics
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Shiva's%20GitHub%20Stats&textBg=false&section=header&fontAlign=51&animation=blinking&fontSize=30&strokeWidth=1" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msd131102&layout=compact&theme=radical&title_color=4F46E5&hide_border=false" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msd131102&theme=radical&border_radius=8&stroke=4F46E5&ring=4F46E5&fire=4F46E5" alt="GitHub Streak" />
-</div>
----
-
 ### 🤝 Connect & Network
 
 <p align="center">
@@ -93,14 +83,6 @@ I’m a **Full Stack Engineer** specialized in bridging the gap between sophisti
   <p><i>"Building the future, one line of code at a time. Focused on creating digital solutions that are as <b>powerful</b> on the inside as they are <b>beautiful</b> on the outside."</i></p>
   <img src="https://t3.ftcdn.net/jpg/05/67/41/58/360_F_567415840_1CMA1bA0u1n5VygKrwCuFA1YZUeWoIqD.jpg" />
 </div>
-
----
-
-### 📈 Profile Summary (SEO Optimized)
-
-> **Full Stack Developer | MERN Stack | React.js | Node.js | Express | MongoDB | Java | Spring Boot | Python | REST API | Cloud Deployment | Fresher Developer | Open Source Enthusiast**
-
----
 
 <div align="center">
   <sub>Built with ❤️ by Shiva. © 2024</sub>
