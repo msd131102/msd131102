@@ -1,118 +1,88 @@
-<h1 align="center">Hi 👋, I'm Shiva</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer from India</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0D1117&height=200&section=header&text=Hi%20👋%20I'm%20Shiva&fontSize=70&animation=fadeIn&fontColor=4F46E5" />
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-4F46E5?style=flat-square&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MERN%20%7C%20Spring%20Boot-3b82f6?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/-India-orange?style=flat-square&logo=google-maps&logoColor=white" />
+  </p>
+
+  ### 🚀 Architecting Scalable Digital Experiences
+</div>
+
+---
+
+### 🌌 Beyond the Code
+I’m a **Full Stack Engineer** specialized in bridging the gap between sophisticated backend logic and pixel-perfect frontend interfaces. Currently obsessed with AI integrations and cloud-native architectures.
+
+- 🔭 **Currently Building:** High-performance web solutions with **MERN & Spring Boot**.
+- ☁️ **Cloud Focus:** Deploying & scaling on **AWS, Vercel, and Render**.
+- 🎨 **Design Philosophy:** Clean code, minimal UI, and maximum performance.
+
+---
+
+### 🛠️ Tech Stack Ecosystem
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,react,redux,tailwind,angular" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Database</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,spring,python,mongodb,mysql,postgres" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☁️ DevOps & Tools</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,ps,figma,vercel,netlify" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌱 Learning & Exploration</h4>
+      <img src="https://skillicons.dev/icons?i=aws,docker,threejs,flask" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💎 Featured Engineering Projects
+
+<div align="center">
+
+| Project | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| **[ANSHU BEAUTY HUB](https://anshu-beauty-hub-frontend.onrender.com/)** | `MERN`, `Stripe`, `Cloudinary` | Full E-commerce with secure checkout & dashboard. |
+| **[Genify AI](https://genify-px1i.onrender.com/)** | `React`, `DALL-E API`, `Node` | AI text-to-image engine with community gallery. |
+| **[The Portfolio](https://mr-shiva.netlify.app/)** | `React`, `Framer Motion` | High-fidelity interactive UI with optimized performance. |
+
+</div>
+
+---
+
+### 📊 Engineering Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msd131102&show_icons=true&theme=transparent&title_color=4F46E5&icon_color=4F46E5&text_color=94a3b8&border_color=1e293b" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msd131102&layout=compact&theme=transparent&title_color=4F46E5&text_color=94a3b8&border_color=1e293b" width="48%" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=msd131102&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/msd131102?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msd131102&theme=transparent&stroke=4F46E5&ring=4F46E5&fire=4F46E5&currStreakNum=4F46E5&sideLabels=94a3b8" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-💡 I'm a **Full Stack Developer (MERN & Java Spring Boot)** passionate about building dynamic and scalable web applications.  
-🎓 I focus on **frontend excellence, backend optimization, and cloud deployment**.  
-🚀 I love creating projects that combine **modern UI/UX design** with **powerful backend logic**.  
-📍 Based in India | Open to Full-Time & Internship Opportunities  
-
----
-
-### 🌱 Currently Learning
-
-**Angular • Node.js • Spring Boot • Flask • React.js**
-
----
-
-### 🧩 Skills & Technologies
-
-#### 💻 Programming Languages
-  `Java` • `JavaScript` • `SQL`
-
-#### 🌐 Frontend Development
-`HTML5` • `CSS3` • `React.js` • `Redux Toolkit` • `Tailwind CSS`
-
-#### ⚙️ Backend Development
-`Node.js` • `Express.js` • `Spring Boot` • `Flask` • `Django`
-
-#### 🗄️ Database & Tools
-`MongoDB` • `MySQL` • `PostgreSQL` • `SQL Server`
-
-#### ☁️ Other Tools
-`Git & GitHub` • `Postman` • `Photoshop` • `Render` • `Netlify` • `Vercel`
-
----
-
-### 💼 Featured Projects
-
-🔹 **[ANSHU BEAUTY HUB](https://anshu-beauty-hub-frontend.onrender.com/)**  
-Full-stack e-commerce web app for organic beauty products built with **React.js, Node.js, Express, MongoDB**, and payment integration.
-
-🔹 **[My Portfolio Website](https://mr-shiva.netlify.app/)**  
-A responsive and modern portfolio showcasing my full-stack projects and skills.
-
-🔹 **[Genify](https://genify-px1i.onrender.com/)**  
-**Genify is an innovative AI-powered application that transforms text descriptions into stunning images in seconds**
----
-
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/sivadora-madepalli-16a8a3228/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shivmodernz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://github.com/msd131102" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
-
-📧 **Email:** shivmodernz@gmail.com  
-🌐 **Portfolio:** [https://shivaportfolio1311.netlify.app/](https://mr-shiva.netlify.app/)
-
----
-
-### 🛠 Languages & Tools
+### 🤝 Connect & Network
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,spring,python,mysql,postman,git,github,tailwind,vscode" />
+<a href="https://www.linkedin.com/in/sivadora-madepalli-16a8a3228/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:shivmodernz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/msd131102"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msd131102&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msd131102&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=msd131102&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=msd131102&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
----
-
-### 💬 Fun Fact
-
-💡 “Every great app starts with a single line of code — and a strong cup of coffee ☕.”
-
----
-
-### 📈 Profile Summary (SEO Optimized)
-
-> **Full Stack Developer | MERN Stack | React.js | Node.js | Express | MongoDB | Java | Spring Boot | Python | REST API | Cloud Deployment | Fresher Developer | Open Source Enthusiast**
-
----
-
-⭐ **If you like my work, consider giving a star to my repositories!**
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
