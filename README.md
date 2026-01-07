@@ -65,14 +65,16 @@ I’m a **Full Stack Engineer** specialized in bridging the gap between sophisti
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msd131102&show_icons=true&theme=transparent&title_color=4F46E5&icon_color=4F46E5&text_color=94a3b8&border_color=1e293b" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msd131102&layout=compact&theme=transparent&title_color=4F46E5&text_color=94a3b8&border_color=1e293b" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=msd131102&show_icons=true&theme=radical&title_color=4F46E5&icon_color=4F46E5&hide_border=false" width="48%" alt="Shiva's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msd131102&layout=compact&theme=radical&title_color=4F46E5&hide_border=false" width="48%" alt="Top Languages" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msd131102&theme=transparent&stroke=4F46E5&ring=4F46E5&fire=4F46E5&currStreakNum=4F46E5&sideLabels=94a3b8" />
-</p>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msd131102&theme=radical&border_radius=8&stroke=4F46E5&ring=4F46E5&fire=4F46E5" alt="GitHub Streak" />
+</div>
 ---
 
 ### 🤝 Connect & Network
