@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0D1117&height=200&section=header&text=Hi%20👋%20I'm%20Shiva&fontSize=70&animation=fadeIn&fontColor=4F46E5" />
+  <img src="https://avatars.githubusercontent.com/u/96329889?v=4&size=64" />
   
   <p align="center">
     <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-4F46E5?style=flat-square&logo=react&logoColor=white" />
