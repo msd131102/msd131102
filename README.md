@@ -91,7 +91,7 @@ I’m a **Full Stack Engineer** specialized in bridging the gap between sophisti
 
 <div align="center">
   <p><i>"Building the future, one line of code at a time. Focused on creating digital solutions that are as <b>powerful</b> on the inside as they are <b>beautiful</b> on the outside."</i></p>
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=4F46E5&height=30&section=footer" width="100%" />
+  <img src="https://t3.ftcdn.net/jpg/05/67/41/58/360_F_567415840_1CMA1bA0u1n5VygKrwCuFA1YZUeWoIqD.jpg" />
 </div>
 
 ---
